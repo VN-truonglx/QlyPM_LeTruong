@@ -1,0 +1,16 @@
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay-newvers.csproj.GenerateResource.cache
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmTinh.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmSinhVien.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmGiaoVien.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmMain.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay-newvers.csproj.ResolveComReference.cache
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmInLichThucHanh.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay_newvers.frmInLTHChuaKetThuc.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\bin\Debug\PagedList.dll
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\bin\Debug\PagedList.xml
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QuanLyPhongMay-newvers.csproj.CopyComplete
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QlyPM_LeTruong.Properties.Resources.resources
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\bin\Debug\QlyPM_LeTruong.exe
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\bin\Debug\QlyPM_LeTruong.pdb
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QlyPM_LeTruong.exe
+D:\How to programming with C#\Git\BaiTapLon_QuanLiPhongMay\QuanLyPhongMay-newvers\obj\Debug\QlyPM_LeTruong.pdb
